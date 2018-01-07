@@ -9,4 +9,10 @@ namespace VisualStudio
             InitializeComponent();
         }
     }
+    
+    public class ForTesting
+    {
+        string name = "my name";
+    }
+    
 }
